@@ -1,6 +1,6 @@
 # DevFest2025
 Windsor Google DevFest 2025 - High School Track
-## Raspberry Pi Pico Project Development
+## Raspberry Pi Pico 2 Project Development
 
 [1. Download Thonny IDE](https://thonny.org/)
 
@@ -10,9 +10,9 @@ Windsor Google DevFest 2025 - High School Track
 
 [4. Arduino Nano Overview](https://docs.arduino.cc/hardware/nano)
 
-## Nano Pinout
+## Raspberry Pi Pico Pinout
 
-![4. Nano Pinout](nano_pinout.png)
+![4. Nano Pinout](pico-2-r4-pinout.svg)
 
 ![](nano_on_board.jpg)
   
