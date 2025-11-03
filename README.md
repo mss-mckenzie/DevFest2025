@@ -6,19 +6,13 @@ Windsor Google DevFest 2025 - High School Track
 
 [2. Add MicroPython Firmware](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3)
 
-[3. Arduino Language Reference](https://www.arduino.cc/reference/en/)
-
-[4. Arduino Nano Overview](https://docs.arduino.cc/hardware/nano)
-
 ## Raspberry Pi Pico Pinout
 
 ![4. Nano Pinout](pico-2-r4-pinout.svg)
 
 ![](nano_on_board.jpg)
   
-Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects.
-
-They produce a wide variety of boards for a wide variety of needs. We will be using the Arduino nano. This is an inexpensive board that is perfect for small projects.
+Raspberry Pi Pico is an inexpensive micro-controller. This means that it is designed to transfer programs to the chip and it will run these programs even when not attached to a computer. It's intended for anyone making interactive projects.
 
 [5. L298N Overview](https://components101.com/modules/l293n-motor-driver-module)
 
